@@ -13,6 +13,8 @@ A capstone-ready **AI-powered BFSI web prototype** with:
 
 > **Important:** This is an educational prototype. The ML model is trained on synthetic data and does not represent a bank's underwriting policy. The prediction is not a guaranteed loan approval and should not be treated as professional financial advice.
 
+Documentation Link : https://drive.google.com/drive/folders/1OIhaPRPEf3lucsLls8-RbpQcAQUvqZr5?usp=sharing
+
 ## 1. Project structure
 
 ```text
